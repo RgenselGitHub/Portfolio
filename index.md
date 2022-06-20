@@ -5,5 +5,4 @@ On this page you will find case studies that I have done showcasing my different
 
 ## Click one of the links below to see a specific case study.
 
-### Google Data Analytics Ride-Share Case Study
-Link: [Ride-Share_CaseStudy](https://rgenselgithub.github.io/RideShare_CaseStudy/)
+
