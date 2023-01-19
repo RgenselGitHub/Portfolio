@@ -1,7 +1,7 @@
 ## About this page
-On this page you will find work that I have done showcasing my different skills.
+On this page you will find work I have done showcasing my different programming skills.
 
-## Click one of the links below to see my work categorized by which programming language I used. All code was written by me. Credit to Datacamp for supplying the project outline and data.
+## Click the links below to see my work categorized by programming language  used. All code was written by me. Credit to Datacamp for supplying the project outline and data.
 
 ### Python
 [Datacamp Project: Investigating Netflix Movies](https://rgenselgithub.github.io/Project_Netflix_Movies/)
