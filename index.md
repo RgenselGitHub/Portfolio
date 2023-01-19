@@ -1,5 +1,3 @@
-# Welcome to Riley Gensel's Portfolio
-
 ## About this page
 On this page you will find work that I have done showcasing my different skills.
 
