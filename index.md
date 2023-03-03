@@ -8,6 +8,7 @@ On this page you will find work I have done showcasing my different programming 
 
 ### Python
 [Datacamp Project: Investigating Netflix Movies](https://rgenselgithub.github.io/Project_Netflix_Movies/)
+[Personal Project: Salary Based on Years of Experience - Simple Linear Regression](Salary - Simple Linear Regression.ipynb)
 
 ### SQL
 [Datacamp Project: When Was the Golden Age of Video Games?](https://rgenselgithub.github.io/Golden_Age_of_Video_Games/) 
